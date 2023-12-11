@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "neo4j": "^2.0.0-RC2",
+    "neo4j-driver": "^5.15.0"
+  }
+}

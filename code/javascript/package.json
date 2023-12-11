@@ -1,0 +1,21 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "example.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "Huzaifa",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^5.15.0"
+  }
+}
